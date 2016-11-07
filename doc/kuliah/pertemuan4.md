@@ -1,4 +1,6 @@
 **Background**
+
+
          In the more modern era, a lot of people who use the Internet to exchange data and for other things. With her as the times at the moment, the Internet network needs are very diverse. However, few people are concerned with the security of the network they use. Thus providing a wide gap for people who are not responsible, to use them. One example is that there are also people who access the Internet in a way that is less well as by sniffing. Sniffing is a way to do the intercepting network. So, people who do sniffing will easily fit into the lane where there are data packets someone connected to a data network. The data package will be crossed or passed by hackers (people who do sniffing). Through this pathway target access rights can be known by the hacker. And hackers can easily use the right to access the target.
             If you are users of computers connected in a network / network, eg in the office or cafe, then the introduction of one term in the world of hacking, sniffing becomes very important. Especially for those who love the activity involves charging a username and password, such as email activity, e-banking, maintenance website or blog, purchase goods on the internet using a credit card, etc. What do sniffing activities use the username and password?
 
